@@ -1,0 +1,53 @@
+{"details":{
+  "image":"profile.png",
+  "name":"vinay",
+  "phoneno":"91-8462739739",
+  "email":"vinay.bheemala@gmail.com",
+  "Address":"Mic College of Technology,kanchikacherla,Andhra Pradesh 521180"
+},
+"career":{
+  "info":"To pursue a challenging career to enhance a quality improvement"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC College",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+"qualification":"Intermediate",
+"institute":"Janet Junior College",
+"year":"2014-2016",
+"percentage":"80%"
+},
+{  "qualification":"SSC",
+  "institute":"SDA High School",
+  "year":"2013-2014",
+  "percentage":"75%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["c,c++,java,python,R"]
+},
+{
+"title":"databases",
+"info":["oracle,sql,mysql,tinydb"]
+},
+{
+  "title":"operating system",
+  "info":["windows,linux,ubuntu,android,ios,mac"]
+}
+],
+"achievements":[
+  {
+    "title":"prizes",
+    "info":"won 1st prize at cambridge university"
+  },
+  {
+    "title":"extra circular activities",
+    "info":"participated various technical events"
+  }
+]
+}

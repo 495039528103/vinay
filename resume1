@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport:" content="width=device-width,initial-scale=1">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="main">
+      <div class="left">
+        <img src="profile.png" alt="profile">
+        <h4 id="name">vinay</h4>
+        <h4 style="clor:violet">+91-8466279495</h4>
+        <a href="mailto:vinay.bheemala@gmail.com">vinay.bheemala@gmail.com</a>
+        <h2>Address:</h2>
+        <hr>
+        <p>Mic College of Technology,kanchikacherla,Andhra Pradesh 521180</p>
+
+      </div>
+        <div class="right">
+          <h2 style="color:brown;font-size:20px;">careerobjective</h2>
+          <hr>
+          <p>To pursue a challenging career and be a part of progressive organisation that gives a scope to enhance my knowledge a quality improvement that makes you valuable to the company</p>
+          <h2 style="color:blue;font-size:20px;">Educational Qualifications</h2>
+          <hr>
+          <div class="table1">
+          <table border="1">
+            <tr>
+              <th>Degree</th>
+              <th>Institute</th>
+              <th>Year of Passing</th>
+              <th>Percentage</th>
+            </tr>
+            <tr>
+              <td>B.tech</td>
+              <td>Mic College</td>
+              <td>2016-2020</td>
+              <td>99%</td>
+             </tr>
+            <tr>
+              <td>Intermediate</td>
+              <td>janet junior college</td>
+              <td>2014-2016</td>
+              <td>90%</td>
+            </tr>
+          </table>
+
+            </table>
+          <td>SSC</td>
+          <td>SDA High School</td>
+          <td>2013-2014</td>
+          <td>80%</td>
+        </tr>
+      </table>
+      <div>
+      <h2>Technical Skills</h2>
+      <hr>
+      <h4>Programmimg Languages:</h4>
+      <ul>
+        <li>C</li>
+        <li>C++</li>
+        <li>java</li>
+        <li>python</li>
+        <li>R</li>
+      </ul>
+
+      <h4 style="color:blue">Database:</h4>
+
+      <ul>
+        <li>SQL</li>
+        <li>Oracle</li>
+        <li>MySQL</li>
+      </ul>
+      <h3>Operating System</h3>
+      <li>Linux</li>
+      <li>Windows</li>
+      <li>ubuntu</li>
+      <li>mac</li>
+    </ul>
+
+
+          <h2 style="color:blue">Achievements</h2>
+    <ul>
+      <li>Student of the year</li>
+<li>good in Programmimg</li>
+<li>best in doing seminars</li>
+      </ul>
+        </div>
+          </div>
+            </body>
+</html>

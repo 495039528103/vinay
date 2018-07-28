@@ -1,0 +1,35 @@
+careerinfo(data.career);
+  education(data.education);
+
+var child2 = document.querySelector(".childtwo");
+function careerinfo(info){
+  var heading = document.createElement("h2");
+  heading.textContent="career objective:"
+  child2.appendChild(heading);
+
+  var hr = document.createElement("hr");
+  child2.appendChild(hr);
+
+  var c = documetn.createElement("p");
+  c.textContent = info.info;
+  child2.appendChild(c);
+}
+
+function education(edu) {
+  var hd = document.createElement("h2");
+  hd.textContent="Eduicational Qualification";
+  child2.appendChild(hd);
+
+  var hr = document.createElement("hr");
+  child2.appendChild(hr);
+
+  var table1 = document.createElement("table");
+  table1.border = "1";
+  child2.appendChild(table1);
+
+  tabledata = "";
+  for(i=0;i<edu.length;i++){
+    tabledata+="<tr><td>"+edu[i].qualification+"</td><td>"+edu[i].institute+"</td><td>"+edu[i].year+"</td><td>"+edu[i].percentage+"</td></tr>";
+  }
+  table1.innerHTML=tabledata;
+}
